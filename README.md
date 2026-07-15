@@ -35,8 +35,8 @@ The bot is designed with **memory**, meaning it retains the conversation context
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd chat_bot
+git clone https://github.com/siddhant-tongia/whatsapp-llm-bot.git
+cd whatsapp-llm-bot
 ```
 
 ### 2. Install dependencies
