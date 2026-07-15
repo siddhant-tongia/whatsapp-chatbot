@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📱 OpenAI WhatsApp Chatbot</h1>
+  <h1>📱 WhatsApp LLM Bot</h1>
   <p><strong>A powerful, context-aware Flask conversational API bridging WhatsApp (via Twilio) and LLMs (via Gemini/OpenAI endpoints)</strong></p>
 </div>
 
